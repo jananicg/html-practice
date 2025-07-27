@@ -1,0 +1,49 @@
+1. Ordered List (`<ol>`)
+
+* Shows items in numbered order (1, 2, 3...)
+* Used when order matters
+* Example:
+
+  <ol>
+    <li>Wake up</li>
+    <li>Study</li>
+  </ol>
+
+
+2. Unordered List (`<ul>`)
+
+ Shows items with bullets
+ Used when order doesn’t matter
+ Example:
+
+
+  <ul>
+    <li>Apple</li>
+    <li>Banana</li>
+  </ul>
+  
+
+3. Nested List
+
+ A list inside a list
+ Example:
+
+  <li>Learning
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+    </ul>
+  </li>
+  
+
+4. Description List (`<dl>`) – Less common
+
+For definitions or pairs
+Example:
+
+  <dl>
+    <dt>HTML</dt>
+    <dd>Language for webpages</dd>
+  </dl>
+  
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+</head>
+<body>
+    <h1>Feedback Form</h1>
+    
+    <form>
+        <!-- Name -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+
+        <!-- Email -->
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <!-- Gender -->
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="other">Other</label>
+        <br><br>
+
+        <!-- Favorite Topics -->
+        <label>Favorite Topics:</label><br>
+        <input type="checkbox" id="html" name="topics" value="HTML">
+        <label for="html">HTML</label><br>
+
+        <input type="checkbox" id="css" name="topics" value="CSS">
+        <label for="css">CSS</label><br>
+
+        <input type="checkbox" id="js" name="topics" value="JavaScript">
+        <label for="js">JavaScript</label><br>
+
+        <input type="checkbox" id="python" name="topics" value="Python">
+        <label for="python">Python</label><br><br>
+
+        <!-- Message -->
+        <label for="message">Your Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="40" placeholder="Write your feedback here..."></textarea>
+        <br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Submit Feedback">
+    </form>
+</body>
+</html>

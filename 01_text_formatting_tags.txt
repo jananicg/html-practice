@@ -1,0 +1,12 @@
+HTML Text Formatting Tags
+
+<b>   - Makes text bold.
+<i>   - Makes text italic.
+<u>   - Underlines the text.
+<sub> - Displays text as subscript (e.g., H2O).
+<sup> - Displays text as superscript (e.g., 10th).
+<mark> - Highlights text with a yellow background.
+<strong> - Strong importance (similar to <b>, but semantic).
+<em>   - Emphasizes text (similar to <i>, but semantic).
+<br>   - Inserts a single line break.
+<hr>   - Adds a horizontal line (divider).

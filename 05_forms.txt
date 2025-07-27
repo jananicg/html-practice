@@ -1,0 +1,22 @@
+Important tag elements
+| Tag          | Purpose                                 |
+| ------------ | --------------------------------------- |
+| `<form>`     | Wraps all input fields                  |
+| `<input>`    | Accepts user input (text, number, etc.) |
+| `<label>`    | Adds label to input field               |
+| `<textarea>` | For multi-line text input               |
+| `<select>`   | Drop-down menu                          |
+| `<option>`   | Options in the drop-down                |
+| `<button>`   | Clickable button                        |
+
+common input type values
+| Type       | Use                          |
+| ---------- | ---------------------------- |
+| `text`     | Single-line text input       |
+| `email`    | Validates email format       |
+| `password` | Hides the input characters   |
+| `number`   | Accepts only numbers         |
+| `radio`    | Select one option in a group |
+| `checkbox` | Select multiple options      |
+| `submit`   | Button to submit the form    |
+| `reset`    | Clears the form values       |

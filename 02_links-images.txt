@@ -1,0 +1,22 @@
+<a> Tag — Important Attributes
+
+| Attribute | Use                       |
+| --------- | ------------------------- |
+| `href`    | URL to link to (required) |
+| `target`  | `_blank` opens in new tab |
+| `title`   | Shows a tooltip on hover  |
+<a href="https://example.com" target="_blank" title="Go to Example">Click Here</a>
+
+---
+
+<img> Tag — Important Attributes
+
+| Attribute | Use                                           |
+| --------- | --------------------------------------------- |
+| `src`     | Path or link to the image (required)          |
+| `alt`     | Text shown if image fails (important for SEO) |
+| `width`   | Width of the image                            |
+
+<img src="image.jpg" alt="Sample Image" width="200">
+
+

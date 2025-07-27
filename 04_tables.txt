@@ -1,0 +1,6 @@
+Basic Table Tags:
+<table> – Starts the table.
+<tr> – Table row (used to group cells in a row).
+<th> – Table header cell (bold and centered by default).
+<td> – Table data cell (normal cell content).
+<caption> – Adds a title to the table (optional).

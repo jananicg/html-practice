@@ -1,0 +1,9 @@
+| Tag         | Meaning/Purpose                            |
+| ----------- | ------------------------------------------ |
+| `<header>`  | Top section – contains logo, nav, title    |
+| `<nav>`     | Navigation menu (links to other pages)     |
+| `<main>`    | Main content area                          |
+| `<section>` | A separate section inside main             |
+| `<article>` | Independent, self-contained content        |
+| `<aside>`   | Sidebar or extra info                      |
+| `<footer>`  | Bottom section – contact, copyright, links |
