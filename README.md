@@ -35,15 +35,6 @@ This folder contains beginner-friendly HTML practice files organized by topic. E
    🔸 Topics: Semantic tags for proper webpage structure  
    🔹 Tags: <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
 
----
 
-📝 How to Practice:
-- Open each HTML file in a browser and code editor
-- Edit content, try new elements, and watch the changes live
-- Use the `.txt` files for quick revision and understanding
----
-
-💡 Tip:
-Save different versions as you experiment to track your progress.
 
 
